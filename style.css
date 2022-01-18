@@ -17,6 +17,9 @@ button {
   padding: 3%;
 }
 
+.row li a {
+  color: #000000 !important;
+}
 a:hover {
   text-decoration: none;
   cursor: pointer;
